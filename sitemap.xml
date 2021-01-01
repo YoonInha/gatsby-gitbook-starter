@@ -4,4 +4,7 @@
 <url> <loc>https://hasura.io/myBlog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/myBlog/codeblock</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://hasura.io/myBlog/codeblock/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/myBlog/codeblock2/1-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/myBlog/codeblock2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://hasura.io/myBlog/codeblock2/2-index</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
