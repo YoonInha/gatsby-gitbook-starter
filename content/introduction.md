@@ -6,6 +6,8 @@ metaDescription: "This is the meta description"
 
 Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
 
+자기소개
+
 # Heading H1
 Heading 1 text
 
